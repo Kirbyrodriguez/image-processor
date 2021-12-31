@@ -1,1 +1,1 @@
-# image-processor
+image processor created as a final project for intro to programming.
