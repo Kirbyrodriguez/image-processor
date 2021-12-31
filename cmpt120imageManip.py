@@ -1,9 +1,3 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for cmpt120imageManip.py
-# Author(s): Julianne Chiu, Kirby Rodriguez
-# Date: December 5, 2020
-# Description:
-
 import cmpt120imageProj
 import numpy
 

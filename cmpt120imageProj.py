@@ -1,6 +1,3 @@
-# Pygame image functions for the Yet Another Image Processor project
-# Do not modfiy this file
-
 import pygame
 import numpy
 

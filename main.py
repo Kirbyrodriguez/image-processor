@@ -1,4 +1,3 @@
-
 import cmpt120imageProj
 import cmpt120imageManip
 import tkinter.filedialog
